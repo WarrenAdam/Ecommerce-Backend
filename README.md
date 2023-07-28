@@ -1,5 +1,6 @@
 # Ecommerce-Backend
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
