@@ -42,29 +42,22 @@ Walkthrough video:
 
 https://watch.screencastify.com/v/T5KyARTkZAvFdx2LcckC
 
-Screenshots:
-
+Screenshots:<br>
      ```md
     ![alt text](assets/images/GET%20PRODUCTS%20LIST.png)
-    ```
-
+    ```<br>
      ```md
     ![alt text](assets/images/GET%20PRODUCTS%20BY%20ID.png)
-    ```
+    ```<br>
      ```md
     ![alt text](assets/images/POST%20NEW%20PRODUCT.png)
-    ```
-
+    ```<br>
     ```md
     ![alt text](assets/images/PUT%20REQUEST.png)
-    ```
-
+    ```<br>
     ```md
     ![alt text](assets/images/DELETE.png)
-    ```
-
-
-
+    ```<br>
 
 
 ## Credits
