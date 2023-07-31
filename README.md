@@ -6,7 +6,7 @@ In this challenge, we used starter code to create routes and models for an ecomm
 
 ## Overview
 
-The following was adpated from the Module 13 coding bootcamp protal.
+The following was adpated from the Module 13 coding bootcamp portal:
 
 User Story:<br>
 AS A manager at an internet retail company<br>
