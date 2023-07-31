@@ -1,5 +1,4 @@
 # Ecommerce-Backend
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
@@ -54,12 +53,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+To better understand Sequelize modeling and route structures, I watched the following video: https://www.youtube.com/watch?v=Crk_5Xy8GMA
 
 ## License
 
